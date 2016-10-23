@@ -1,0 +1,14 @@
+title: Vox Pupuli - How a community manages >50 puppet modules
+Abstract: 
+We are a collective of more than 70 Puppet module, tooling and documentation authors all working together to ensure continued development on the code we maintain.
+Managing a bunch of modules is hard. Keeping track of upstream changes, changes in Puppet itself and in the testing stack requires some time and is a bit challenging.
+From time to time the software we want to manage (for example nginx, php, collectd) drops old settings or introduces new features, which we need to cover in our modules.
+Our stack to execute tests depends on several ruby gems, providing a functional set that runs on every contributors computer is a funny journey that surprises us each day.
+In this talk we would like to show you how we manage all the technical challenges,
+how we keep track of raised issues and pull requests, how we deal with changes that involve all modules and how people can participate.
+
+Bio:
+Tim (bastelfreak) Meusel (https://blog.bastelfreak.de) works as a Systems Engineer at the Host Europe Group in Cologne, Germany where he develops and maintains a big public cloud platform. Tim is pushing and implementing open source solutions at work. He founded the VirtAPI-Stack and besides that he is active as a Vox Pupuli Maintainer and Archlinux community manager. Tim is doing Sysops stuff since 2009 and plays with Puppet since 2012, recently he got elected into the Vox Pupuli Project Management Committee. He enjoys good BBQs and ice hockey.
+
+
+Spencer (nibalizer) Krum (http://spencerkrum.com) has been sysoping Linux since 2010. He works for IBM contributing upstream to OpenStack and Puppet. Spencer is a core contributor to the OpenStack Infrastructure Project. Spencer coordinates the local DevOps user group in Portland and volunteers for an ops-training program at Portland State University called the Braindump. Spencer is a published author and frequent speaker at technical conferences. Spencer is a maintainer for the voxpupuli effort(https://voxpupuli.org). Spencer lives and works in Portland, Oregon where he enjoys tennis, cheeseburgers and StarCraft II.

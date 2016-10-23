@@ -1,0 +1,34 @@
+Meet VoxPupuli Panel
+moderator: nibalizer
+Panel list: Daenney, igalic, bastelfreak, danzilio, Rob Nelson
+Proposed Session Title: Meet VoxPupuli!
+Proposed Session Description: Meet the VoxPupuli Team! Join the VoxPupuli team! This high energy panel features a hogepodge of voxpupuli contributors answering questions from the moderator and from the audience.
+We will begin with an introduction about ourselves, who we are and what VoxPupuli is, and then answer questions from the attendees.
+Session Audience Level: Beginner
+What do you want the audience to gain from your session? An understanding of who VoxPupuli is and the benefits it provides for its members and for the larger Puppet community.
+Related Links and Additional Information: https://voxpupuli.org/
+
+
+Abstract:
+    
+Meet the VoxPupuli Team! Join the VoxPupuli team! This high energy panel features a hogepodge of voxpupuli contributors answering questions from the moderator and from the audience.
+We will begin with an introduction about ourselves, how we are and what VoxPupuli is.
+
+Example questions:
+    
+What the heck is VoxPupuli?
+How do you prononuce it?
+What kinds of things does VoxPupuli do?
+How did VoxPupuli start?
+How do I get a PR merged on a VoxPupuli Module?
+I want to help! Where can I get started?
+I found a module on the forge/github that isn't being maintained, what should I do?
+
+
+
+    
+    
+    
+Note to organizers:
+    
+The panel format is a good match for discussion and information about VoxPupuli. In many ways we are still figuring out our practices, standards, and policies. If one person gave a lecture style presentation on this content, they would be given 'the power of the pen' and it would not be driven by consensus. With this format different voxpupuli contributors can give different answers, presenting a more accurate and nuanced view into some of these issues.
