@@ -12,4 +12,4 @@
 * [cfgmgmtcamp Berlin - Online Slides](https://bastelfreak.de/cfgcamp/#1)
 * [cfgmgmtcamp Berlin - PDF](Vox_Pupuli_-_Empowering_the_Puppet_Community.pdf)
 * [cfgmgmtcamp Gent - Vox Pupuli Panel Proposal]()
-* [cfgmgmtcamp Gent - Vox Pupuli Talk](cfgmgmtcampbastelfreak.txt)
+* [cfgmgmtcamp Gent - Vox Pupuli Talk](cfgmgmtcampbastelfreak.md)
