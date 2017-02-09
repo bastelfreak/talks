@@ -25,3 +25,7 @@ upstream software! We invite everybody to participate. We will get into the
 details of what Vox Pupuli is, how you can interact/contribute/benefit and also
 we will share some funny and sad stories about all the bugs we discovered in
 the Puppet and Ruby ecosystem!
+
+## Talk
+
+[here](Vox_Pupuli_-_Empowering-the-Puppet-Community--_Tim_Meusel_fulltalk.pdf)
