@@ -8,6 +8,7 @@
 * [Computer Sience - Network Routing](https://bastelfreak.de/ipalloc/#1)
 * [Computer Sience - Thesis Presentation](https://bastelfreak.de/dcc/#1)
 * [Computer Sience - Introduction to DNS](https://bastelfreak.de/dns/#1)
+* [Computer Sience - Introduction to Big Data](https://bastelfreak.de/bigdata/#1)
 * [PuppetConf - 2016](puppetconf2016.txt)
 * [PuppetConf - 2017](puppetconf2017.md)
 * [cfgmgmtcamp Berlin - 2016](cfgcampberlin2016.txt)
