@@ -15,5 +15,6 @@
 * [cfgmgmtcamp Berlin Ignite Talk - 2016 Proposal ](cfgcampberlinignite2016.txt)
 * [cfgmgmtcamp Berlin - Online Slides](https://bastelfreak.de/cfgcamp/#1)
 * [cfgmgmtcamp Berlin - PDF](Vox_Pupuli_-_Empowering_the_Puppet_Community.pdf)
-* [cfgmgmtcamp Gent - Vox Pupuli Panel Proposal]()
-* [cfgmgmtcamp Gent - Vox Pupuli Talk](cfgmgmtcampbastelfreak.md)
+* [cfgmgmtcamp Gent 2017 - Vox Pupuli Talk](cfgmgmtcampbastelfreak.md)
+* [cfgmgmtcamp Gent 2018 - Vox Pupuli Talk](cfgmgmtcamp2018.md)
+* [cfgmgmtcamp Gent 2018 - CI and CD with Archlinux and Puppet](cfgmgmtcamp2018.md)
