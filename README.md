@@ -19,3 +19,4 @@
 * [cfgmgmtcamp Gent 2017 - Vox Pupuli Talk](cfgmgmtcampbastelfreak.md)
 * [cfgmgmtcamp Gent 2018 - Vox Pupuli Talk](cfgmgmtcamp2018.md)
 * [cfgmgmtcamp Gent 2018 - CI and CD with Archlinux and Puppet](cfgmgmtcamp2018.md)
+* [Synyx DevOps Meetup](devopsmeetup.md)
