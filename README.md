@@ -20,3 +20,8 @@
 * [cfgmgmtcamp Gent 2018 - Vox Pupuli Talk](cfgmgmtcamp2018.md)
 * [cfgmgmtcamp Gent 2018 - CI and CD with Archlinux and Puppet](cfgmgmtcamp2018.md)
 * [Synyx DevOps Meetup](devopsmeetup.md)
+
+## Thesis and project documentations
+
+* [Bachelor of Engineering for Computer Sience Thesis](thesis-de.pdf)(in German)
+* [Computer Sience: Windows Active Directory](rna.pdf)(in German)
