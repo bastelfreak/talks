@@ -23,5 +23,5 @@
 
 ## Thesis and project documentations
 
-* [Bachelor of Engineering for Computer Sience Thesis](thesis-de.pdf)(in German)
-* [Computer Sience: Windows Active Directory](rna.pdf)(in German)
+* [Bachelor of Engineering for Computer Sience Thesis](thesis-de.pdf) (in German)
+* [Computer Sience: Windows Active Directory](rna.pdf) (in German)
