@@ -1,5 +1,12 @@
 # Config Management Camp 2018 Ghent
 
+## Slides
+
+Sadly I had no time to attend the conference. The first talk was accepted. The
+pdf can be found
+[here](Vox_Pupuli_-_The_Funny_Community_Journey_-_Tim_Meusel_cfgmgmtcamp2018.pdf)
+and the online version [here](https://bastelfreak.de/cfgcampgent2018/#1).
+
 ## Bio
 
 Tim (bastelfreak) Meusel works as a DevOps Engineer for GoDaddy EMEA in Cologne,
