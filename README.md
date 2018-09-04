@@ -21,6 +21,7 @@
 * [cfgmgmtcamp Gent 2018 - Vox Pupuli Talk](cfgmgmtcamp2018.md)
 * [cfgmgmtcamp Gent 2018 - CI and CD with Archlinux and Puppet](cfgmgmtcamp2018.md)
 * [Synyx DevOps Meetup karlsruhe 2018](devopsmeetup.md)
+* [OSCamp 2018](oscamp2018.md)
 
 ## Thesis and project documentations
 
