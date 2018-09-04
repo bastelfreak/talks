@@ -12,6 +12,7 @@
 * [Computer Sience - Timer on PIC16F887](https://bastelfreak.de/timer/#1)
 * [PuppetConf - 2016](puppetconf2016.txt)
 * [PuppetConf - 2017](puppetconf2017.md)
+* [Puppetize - 2018](puppetize2018.md)
 * [cfgmgmtcamp Berlin - 2016](cfgcampberlin2016.txt)
 * [cfgmgmtcamp Berlin Ignite Talk - 2016 Proposal ](cfgcampberlinignite2016.txt)
 * [cfgmgmtcamp Berlin - Online Slides](https://bastelfreak.de/cfgcamp/#1)
