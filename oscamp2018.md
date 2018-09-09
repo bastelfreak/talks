@@ -59,6 +59,7 @@ distribute your agents to several Puppetservers evenly, but without hardcoded
 assignments? How do you handle the massivly increased load on your Foreman and
 PuppetDB intances, after the Puppetserver isn't the bottleneck anymore? And how
 the heck can this all be monitored?
+
 I would like to provide you a walkthrough from a small environment with a
 single physical server for Puppetserver/Foreman/PostgreSQL and a handful of
 agents that got scaled up to several thousand agents. This also includes
