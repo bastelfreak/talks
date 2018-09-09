@@ -52,3 +52,14 @@ sad stories about all the bugs we discovered in the Puppet and Ruby ecosystem!
 * Title: Scaling and monitoring your puppetserver for thousands of clients -
 including all pitfalls!
 * Level: Advanced
+
+Throwing hardware on your Puppetserver to scale it vertically works to a
+certain level. But how do you proceed if that doesn't work anymore? How do you
+distribute your agents to several Puppetservers evenly, but without hardcoded
+assignments? How do you handle the massivly increased load on your Foreman and
+PuppetDB intances, after the Puppetserver isn't the bottleneck anymore? And how
+the heck can this all be monitored?
+I would like to provide you a walkthrough from a small environment with a
+single physical server for Puppetserver/Foreman/PostgreSQL and a handful of
+agents that got scaled up to several thousand agents. This also includes
+probably all common pitfalls that you can take on this journey!
