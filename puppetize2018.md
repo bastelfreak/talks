@@ -37,6 +37,8 @@ everybody to participate. We will get into the details of what Vox Pupuli is,
 how you can interact/contribute/benefit and also we will share some funny and
 sad stories about all the bugs we discovered in the Puppet and Ruby ecosystem!
 
+[pdf](Vox_Pupuli_-_The_Community_behind_Puppet_-_Tim_Meusel.pdf), [online version](https://github.com/bastelfreak/puppetize20181)
+
 ## Session 2 Details
 
 * Title: Vox Pupuli  - Managing 150 git repositories and contributions at scale
@@ -50,3 +52,5 @@ over 150 git repositories, developed some tooling and best practices to handle
 the huge amount of repositories and contributions. We would like to introduce
 you to our way of organizing a FOSS community and share some funny stories
 about the issues and outages that forced us to develop and improve our tooling.
+
+[pdf](Vox_Pupuli_-_Managing_150_git_repositories_and_contributions_at_scale_-_Tim_Meusel.pdf), [online version](https://github.com/bastelfreak/puppetize20182)
