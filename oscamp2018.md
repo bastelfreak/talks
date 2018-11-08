@@ -46,6 +46,11 @@ everybody to participate. We will get into the details of what Vox Pupuli is,
 how you can interact/contribute/benefit. We will tell you some stories, funny
 and sad, about all the bugs we've discovered in the Puppet and Ruby ecosystem!
 
+### Slides
+
+* [Online slides](https://bastelfreak.de/oscampvox/#1)
+* [pdf](Vox_Pupuli_-_The_Community_behind_Puppet_-_Tim_Meusel-oscamp.pdf)
+
 ## Session 2 Details
 
 * Title: Scaling and monitoring your puppetserver for thousands of clients -
@@ -63,3 +68,8 @@ I would like to show you a walkthrough from a small environment with a
 single physical server for Puppetserver/Foreman/PostgreSQL and a handful of
 agents that got scaled up to several thousand agents. This also includes
 probably all common pitfalls that you can find yourself in on this journey!
+
+### Slides
+
+* [Online Slides](https://bastelfreak.de/scalingpuppetserver/#1)
+* [pdf](Scaling_and_monitoring_your_puppetserver_for_thousands_of_clients_-_Tim_Meusel.pdf)
