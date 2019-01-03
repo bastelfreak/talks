@@ -2,11 +2,9 @@
 
 ## Final slides
 
-The 26M pdf can be found
-[here](Vox_Pupuli_-_Empowering_the_Puppet_Community_-_Tim_Meusel_devopsmeetup_karlsruhe.pdf),
-the online version [here](https://bastelfreak.de/devopsmeetupka). You can
-switch to the presenter mode to see the notes by pressing `p` (and you can also
-press `c` to clone the view.
+[Online Slides](https://bastelfreak.de/devopsmeetupka)
+[pdf](Vox_Pupuli_-_Empowering_the_Puppet_Community_-_Tim_Meusel_devopsmeetup_karlsruhe.pdf)
+[Recording](https://www.youtube.com/watch?v=sEEagytj7Q4)
 
 ## Bio
 

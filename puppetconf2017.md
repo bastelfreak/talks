@@ -30,4 +30,6 @@ I spoke about it at the last config management camp 2017 in Gent. The online
 version of the slides can be found
 [here](https://bastelfreak.de/cfgcampgent/#1).
 
-A PDF is available [here](https://github.com/bastelfreak/talks/raw/master/Vox_Pupuli_-_Empowering-the-Puppet-Community--_Tim_Meusel_fulltalk.pdf)
+[Online Version](https://bastelfreak.de/puppetconf2017/#1)
+[pdf](Vox_Pupuli_-_Empowering-the-Puppet-Community--_Tim_Meusel_fulltalk.pdf)
+[Recording](https://www.youtube.com/watch?v=fwUwgiiAM-w)
