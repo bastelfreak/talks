@@ -23,6 +23,7 @@
 * [Cfgmgmtcamp Gent 2019 - Vox Pupuli Talk](cfgmgmtcamp2019.md)
 * [Synyx DevOps Meetup karlsruhe 2018](devopsmeetup.md)
 * [OSCamp 2018](oscamp2018.md)
+* [Chemnitzer Linux Tage 2018](CLT-2018.md)
 
 ## Thesis and project documentations
 
