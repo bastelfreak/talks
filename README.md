@@ -24,6 +24,7 @@
 * [Synyx DevOps Meetup karlsruhe 2018](devopsmeetup.md)
 * [OSCamp 2018](oscamp2018.md)
 * [Chemnitzer Linux Tage 2018](CLT-2018.md)
+* [OSCON 2018](OSCON2018.md)
 
 ## Thesis and project documentations
 
