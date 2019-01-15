@@ -2,7 +2,7 @@
 
 ## Title
 
-Vox Pupuli - The Open Source Community behind Puppet
+Vox Pupuli - Behind every successful open source project is a vibrant community
 
 ## Bio
 
@@ -14,11 +14,13 @@ Open Source
 
 ## Abstract
 
-Vox Pupuli is a group of more than 120 puppet module/tooling/documentation authors, all working together to ensure a continuing development process. In 2016 we elected our first Project Management Committee with one of its goals being to include Vox Pupuli as an official project under the Software Conservancy and to guide the community.
+What happens when critical open source projects stop being maintained?
 
-We do not only provide a home for every orphaned puppet module; we also offer proper tooling and automation for every interested developer. Some of the most frequently used puppet modules (zabbix, collectd, archive, yum, nginx) are managed by us. Vox Pupuli is in the Top 10 of the most frequent Puppet Forge release groups. Have a look at our funny journey of hunting broken gems and changing upstream software!
+Vox Pupuli is a group of more than 120 puppet module/tooling/documentation authors, all working together to ensure a continuing development process. Our goal is to adopt abandoned FOSS projects from the Puppet ecosystem and to unite lonely FOSS developers.
 
-We invite everybody to participate. We will get into the details of what Vox Pupuli is and how you can interact/contribute/benefit. We will also tell you some stories about all the awesome stuff that's happening in the community that creates a very welcoming place for people!
+In this talk we take a deep dive in what it takes to rescue abandoned open source projects, their dependencies, and their communities. Vox Pupuli offers proper tooling and automation for every interested developer. Some of the most frequently used puppet modules (zabbix, collectd, archive, yum, nginx) are managed by us. Vox Pupuli is in the Top 10 of the most frequent Puppet Forge release groups. Have a look at our funny journey of hunting broken gems and changing upstream software!
+
+We invite everybody to participate. We will get into the details about how you can interact/contribute/benefit. We will also tell you some stories about all the awesome stuff that's happening in the community that creates a very welcoming place for people!
 
 ## What's the takeaway for the audience?
 
