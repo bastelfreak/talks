@@ -25,6 +25,7 @@
 * [OSCamp 2018](oscamp2018.md)
 * [Chemnitzer Linux Tage 2018](CLT-2018.md)
 * [OSCON 2018](OSCON2018.md)
+* [OSAD 2019](OSAD2019.md)
 
 ## Thesis and project documentations
 
