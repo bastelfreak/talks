@@ -1,4 +1,4 @@
-## Collection of Talks, Proposals and related Stuff
+# Collection of Talks, Proposals and related Stuff
 
 * [Computer Sience - Raid Talk Dezember 2015](https://bastelfreak.de/raid/#1)
 * [Computer Sience - Puppet Talk 2015](https://bastelfreak.de/puppet/#1)
@@ -14,7 +14,7 @@
 * [PuppetConf - 2017](puppetconf2017.md)
 * [Puppetize - 2018](puppetize2018.md)
 * [cfgmgmtcamp Berlin - 2016](cfgcampberlin2016.txt)
-* [cfgmgmtcamp Berlin Ignite Talk - 2016 Proposal ](cfgcampberlinignite2016.txt)
+* [cfgmgmtcamp Berlin Ignite Talk - 2016 Proposal](cfgcampberlinignite2016.txt)
 * [cfgmgmtcamp Berlin - Online Slides](https://bastelfreak.de/cfgcamp/#1)
 * [cfgmgmtcamp Berlin - PDF](Vox_Pupuli_-_Empowering_the_Puppet_Community.pdf)
 * [cfgmgmtcamp Gent 2017 - Vox Pupuli Talk](cfgmgmtcampbastelfreak.md)
@@ -26,6 +26,7 @@
 * [Chemnitzer Linux Tage 2019](CLT-2019.md)
 * [OSCON 2019](OSCON2019.md)
 * [OSAD 2019](OSAD2019.md)
+* [OSDC 2019](OSDC2019.md)
 
 ## Thesis and project documentations
 
