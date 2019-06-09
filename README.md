@@ -27,6 +27,7 @@
 * [OSCON 2019](OSCON2019.md)
 * [OSAD 2019](OSAD2019.md)
 * [OSDC 2019](OSDC2019.md)
+* [Puppet Contributor Summit 2019](PCS2019.md)
 
 ## Thesis and project documentations
 
