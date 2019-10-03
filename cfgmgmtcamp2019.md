@@ -1,7 +1,8 @@
 # Config Management Camp 2019 Ghent
 
 ## Bio
-Tim (bastelfreak]) Meusel works as a DevOps Engineer for GoDaddy EMEA in Cologne, Germany where he develops and maintains a big public cloud
+
+Tim (bastelfreak) Meusel works as a DevOps Engineer for GoDaddy EMEA in Cologne, Germany where he develops and maintains a big public cloud
  platform. Tim is the driving force behind various open source solutions at work. He founded the VirtAPI-Stack and is a very active Vox Pupuli Maintainer. Tim has been doing work in the DevOps area since 2009 and is persuing Puppet solutions since 2012. Recently he was reelected to serve on the Vox Pupuli Project Management Committee. He enjoys good BBQ and ice hockey.
 
 ## Session 1 Details
@@ -23,6 +24,10 @@ everybody to participate. We will get into the details of what Vox Pupuli is,
 how you can interact/contribute/benefit. We will tell you some stories, funny
 and sad, about all the bugs we've discovered in the Puppet and Ruby ecosystem!
 
+[git repo](https://github.com/bastelfreak/cfgmgmtcamp2019)
+[online version](https://bastelfreak.de/cfgmgmtcamp2019/#1)
+[pdf](Vox_Pupuli_-_Die_Community_behind_Puppet_-_Tim_Meusel_-_Alexander_-_Fischer.pdf)
+
 ## Session 2 Details
 
 * Title: Scaling and monitoring your puppetserver for thousands of clients -
@@ -41,3 +46,5 @@ single physical server for Puppetserver/Foreman/PostgreSQL and a handful of
 agents that got scaled up to several thousand agents. This also includes
 probably all common pitfalls that you can find yourself in on this journey!
 
+I wasn't able to attend the conference, but I did the same talk earlier on the
+[OSCamp 2018](https://github.com/bastelfreak/talks/blob/master/oscamp2018.md#oscamp-2018).
