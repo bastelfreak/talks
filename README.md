@@ -34,3 +34,9 @@
 
 * [Bachelor of Engineering for Computer Sience Thesis](thesis-de.pdf) (in German)
 * [Computer Sience: Windows Active Directory](rna.pdf) (in German)
+
+## Contact for speaking and workshops
+
+I'm happy to speak at conferences and meetups. Besides that I also offer Puppet
+consulting, workshops and trainings. If you're interested in one of those
+topics please contact me at [tim@bastelfreak.de](mailto:tim@bastelfreak.de).
