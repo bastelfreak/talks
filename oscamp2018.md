@@ -51,6 +51,7 @@ and sad, about all the bugs we've discovered in the Puppet and Ruby ecosystem!
 * [Online slides](https://bastelfreak.de/oscampvox/#1)
 * [pdf](Vox_Pupuli_-_The_Community_behind_Puppet_-_Tim_Meusel-oscamp.pdf)
 * [Recording](https://www.youtube.com/watch?v=IfQ1ux75Xkg)
+* [git repo](https://github.com/bastelfreak/oscampvox)
 
 ## Session 2 Details
 
@@ -75,3 +76,4 @@ probably all common pitfalls that you can find yourself in on this journey!
 * [Online Slides](https://bastelfreak.de/scalingpuppetserver/#1)
 * [pdf](Scaling_and_monitoring_your_puppetserver_for_thousands_of_clients_-_Tim_Meusel.pdf)
 * [Recording](https://www.youtube.com/watch?v=ytYSHvn8os0)
+* [git repo](https://github.com/bastelfreak/scalingpuppetserver)

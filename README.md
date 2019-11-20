@@ -22,13 +22,13 @@
 * [cfgmgmtcamp Gent 2018 - CI and CD with Archlinux and Puppet](cfgmgmtcamp2018.md)
 * [Cfgmgmtcamp Gent 2019 - Vox Pupuli Talk](cfgmgmtcamp2019.md)
 * [Synyx DevOps Meetup karlsruhe 2018](devopsmeetup.md)
-* [OSCamp 2018](oscamp2018.md)
+* [OSCamp 2018 - Scaling and monitoring your puppetserver for thousands of clients including all pitfalls](oscamp2018.md)
 * [Chemnitzer Linux Tage 2019](CLT-2019.md)
 * [OSCON 2019](OSCON2019.md)
-* [OSAD 2019](OSAD2019.md)
-* [OSDC 2019](OSDC2019.md)
-* [Puppet Contributor Summit 2019](PCS2019.md)
-* [OSMC 2019](OSMC2019.md)
+* [OSAD 2019 - Vox Pupuli - Die Community hinter Puppet](OSAD2019.md)
+* [OSDC 2019 - Ignite talk about Vox Pupuli](OSDC2019.md)
+* [Puppet Contributor Summit 2019 - How does Vox Pupuli deal with so many issues and pull requests](PCS2019.md)
+* [OSMC 2019 - Rollout all your Prometheus exporters with Puppet!](OSMC2019.md)
 
 ## Thesis and project documentations
 
