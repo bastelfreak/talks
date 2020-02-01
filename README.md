@@ -29,6 +29,8 @@
 * [OSDC 2019 - Ignite talk about Vox Pupuli](OSDC2019.md)
 * [Puppet Contributor Summit 2019 - How does Vox Pupuli deal with so many issues and pull requests](PCS2019.md)
 * [OSMC 2019 - Rollout all your Prometheus exporters with Puppet!](OSMC2019.md)
+* [Cfgmgmtcamp Gent 2020 - Automating the Vox Pupuli Yak Shaving](cfgmgmtcamp2020.md)
+* [Cfgmgmtcamp Gent 2020 - Rollout all your Prometheus exporters with Puppet!](cfgmgmtcamp2020.md)
 
 ## Thesis and project documentations
 
@@ -40,3 +42,9 @@
 I'm happy to speak at conferences and meetups. Besides that I also offer Puppet
 consulting, workshops and trainings. If you're interested in one of those
 topics please contact me at [tim@bastelfreak.de](mailto:tim@bastelfreak.de).
+
+## License
+
+This project contains two licenses. The code is licensed as
+[GNU Affero General Public License v3.0](LICENSE). The documentation/text is
+licsensed as [CC BY-NC-SA 4.0](LICENSE).
