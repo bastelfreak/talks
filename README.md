@@ -37,6 +37,11 @@
 * [Bachelor of Engineering for Computer Sience Thesis](thesis-de.pdf) (in German)
 * [Computer Sience: Windows Active Directory](rna.pdf) (in German)
 
+### Other documentation
+
+* [Puppet Basics, guidelines and tuning information](https://github.com/bastelfreak/puppetdocs#puppet-walkthrough) (in German)
+* [Documentation and guidelines for software engineering](https://gist.github.com/bastelfreak/00cb823d3d48154045bd7bf88a656390#software-engineering)
+
 ## Contact for speaking and workshops
 
 I'm happy to speak at conferences and meetups. Besides that I also offer Puppet
