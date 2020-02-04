@@ -20,7 +20,7 @@ automated with Puppet.
 * I did this talk in the past at the [OSMC 2019](OSMC2019.md).
 * [git repo](https://github.com/bastelfreak/prometheusdemo#deploy-prometheus-exporters-with-puppet-at-scale)
 * [online version](https://bastelfreak.de/prometheusdemo#1)
-* [pdf version]()
+* [pdf version](Rollout_all_your_Prometheus_exporters_with_puppet_-_CFGMGMTCAMP2020.pdf)
 
 ## Automating the Vox Pupuli Yak Shaving
 

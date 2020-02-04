@@ -1,0 +1,14 @@
+Who likes to do major upgrades of a distribution that got installed years ago
+and since then got no love? Nobody. Who needs to rely on third party repos or
+package stuff themself because the packages provided by the distributions are too
+old?
+
+Not all of us can run their applications in minimalistic containers. Sometimes
+we still require traditional operating systems on physical or virtual machines.
+Archlinux is a rolling release distribution. It allows us to continuously
+upgrade the system. I will walk you through the GoDaddy EMEA way of running and
+updating Archlinux on production systems. Including dynamic provisioning of
+test- and staging-environments. All tested with Beaker and managed with Puppet.
+There are multiple advantages compared to classic Debian/RHEL deployments that
+I want to share and discuss with you. Discover if Archlinux is the datacenter
+distribution you were looking for!
