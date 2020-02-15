@@ -31,6 +31,7 @@
 * [OSMC 2019 - Rollout all your Prometheus exporters with Puppet!](OSMC2019.md)
 * [Cfgmgmtcamp Gent 2020 - Automating the Vox Pupuli Yak Shaving](cfgmgmtcamp2020.md)
 * [Cfgmgmtcamp Gent 2020 - Rollout all your Prometheus exporters with Puppet!](cfgmgmtcamp2020.md)
+* [StackConf 2020](stackconf2020.md)
 
 ## Thesis and project documentations
 
