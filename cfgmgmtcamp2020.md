@@ -46,5 +46,5 @@ See [our GitHub project](https://github.com/voxpupuli/vox-pupuli-tasks#vox-pupul
 
 * I did this talk together with [Robert Müller](https://twitter.com/Was1NicerDude).
 * [git repo](https://github.com/bastelfreak/cfgmgmtcamp2020#automating-the-vox-pupuli-yak-shaving)
-* [online version](https://bastelfeak.de/cfgmgmtcamp2020)
+* [online version](https://bastelfreak.de/cfgmgmtcamp2020)
 * [pdf version](Automating_the_Vox_Pupuli_Yak_Shaving-Robert_and_Tim.pdf)
