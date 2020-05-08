@@ -8,4 +8,7 @@ Managing a single Puppet module isn't easy, especially if you want to stay up-to
 
 ## Links
 
-* [github.com/bastelfreak/puppetcamp2020](https://github.com/bastelfreak/puppetcamp2020)
+* Slides repository [github.com/bastelfreak/puppetcamp2020](https://github.com/bastelfreak/puppetcamp2020)
+* Online slides [bastelfreak.de/puppetcamp2020](https://bastelfreak.de/puppetcamp2020/#1)
+* [pdf](modulesync_-_How_Vox_Pupuli_Manages_133_modules.pdf)
+* [Video recording](https://www.youtube.com/watch?v=Yp7LbOa8M80)
