@@ -33,6 +33,7 @@
 * [Cfgmgmtcamp Gent 2020 - Rollout all your Prometheus exporters with Puppet!](cfgmgmtcamp2020.md)
 * [Puppet Camp Berlin 2020](puppetcamp2020.md)
 * [StackConf 2020](stackconf2020.md)
+* [Puppet Camp - Scaling automation across teams](Puppet_Camp_Scaling_automation_across_teams.md)
 
 ## Thesis and project documentations
 
