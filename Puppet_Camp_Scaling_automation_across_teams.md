@@ -15,3 +15,4 @@ Running a large infrastructure isn't easy. But how do you handle contributions f
 * [Online version](https://bastelfreak.de/puppetcamp2021/#1)
 * [pdf](You_thought_scaling_infra_is_hard,_try_scaling_team_contributions!.pdf)
 * [git repo](https://github.com/bastelfreak/puppetcamp2021#you-thought-scaling-infra-is-hard-try-scaling-team-contributions)
+* [Video recordig](https://www.youtube.com/watch?v=SHVhAYsmTU8)
