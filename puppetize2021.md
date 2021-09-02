@@ -13,3 +13,10 @@ This talk will focus on all the aspects about open source (with a focus on Puppe
 Tim „bastelfreak“ Meusel became a Senior Automation IT Consultant at example42 in July 2021. Previously, he worked as a DevOps Engineer for GoDaddy EMEA in Cologne, Germany, where he developed and maintained a big public cloud platform. Tim is the driving force behind various open source projects. He founded the VirtAPI-Stack and is a very active Vox Pupuli Maintainer and Project Management Committee member. Tim has been doing work in the DevOps area since 2009 and began persuing Puppet solutions in 2012. He was recently reelected to serve on the Vox Pupuli Project Management Committee.
 
 In his free time, Tim enjoys good BBQ and ice hockey.
+
+## Links
+
+* [git repo](https://github.com/bastelfreak/puppetize2021)
+* [online verison](https://bastelfreak.de/puppetize2021)
+* [pdf](Tim_Meusel_-_Why_Open_Source_brings_more_value_to_business.pdf)
+* The video isn't published yet
