@@ -19,4 +19,4 @@ In his free time, Tim enjoys good BBQ and ice hockey.
 * [git repo](https://github.com/bastelfreak/puppetize2021)
 * [online verison](https://bastelfreak.de/puppetize2021)
 * [pdf](Tim_Meusel_-_Why_Open_Source_brings_more_value_to_business.pdf)
-* The video isn't published yet
+* [schedule link](https://events.puppet.com/event/puppetize-digital-21/why-does-open-source-bring-more-value-to-business-2/)
