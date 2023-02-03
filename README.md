@@ -1,5 +1,7 @@
 # Collection of Talks, Proposals and related Stuff
 
+## Conference/University talks
+
 * [Computer Sience - Raid Talk Dezember 2015](https://bastelfreak.de/raid/#1)
 * [Computer Sience - Puppet Talk 2015](https://bastelfreak.de/puppet/#1)
 * [Computer Sience - How does the Internet work? 2016](https://bastelfreak.de/internet/#1)
@@ -41,15 +43,16 @@
 * [Cfgmgmtcamp Gent 2023 - Why Open Source brings more value to business?](cfgmgmtcamp2023.md)
 * [HashiTalks 2023](hashitalks2023.md)
 
-## Thesis and project documentations
+# Thesis and project documentations
 
 * [Bachelor of Engineering for Computer Sience Thesis](thesis-de.pdf) (in German)
 * [Computer Sience: Windows Active Directory](rna.pdf) (in German)
 
-### Other documentation
+# Other documentation and trainings
 
 * [Puppet Basics, guidelines and tuning information](https://github.com/bastelfreak/puppetdocs#puppet-walkthrough) (in German)
 * [Documentation and guidelines for software engineering](https://gist.github.com/bastelfreak/00cb823d3d48154045bd7bf88a656390#software-engineering)
+* [3 days Puppet (Enterprise) and Bolt workshop](https://www.betadots.de/training)
 
 ## Contact for speaking and workshops
 
