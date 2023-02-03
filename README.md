@@ -40,7 +40,7 @@
 * [Puppetize Digital 2021](puppetize2021.md)
 * [SCALE 20x - Vox Pupuli - Behind every successful open source project is a vibrant community](socallinux2022.md)
 * [SCALE 20x - Deploying workshop instances in cloud using terraform, Puppet and Bolt](socallinux2022_2.md)
-* [Cfgmgmtcamp Gent 2023 - Why Open Source brings more value to business?](cfgmgmtcamp2023.md)
+* [Cfgmgmtcamp Gent 2023 - What Open Source can do for your business](cfgmgmtcamp2023.md)
 * [HashiTalks 2023](hashitalks2023.md)
 
 # Thesis and project documentations

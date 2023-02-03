@@ -1,4 +1,4 @@
-# Why Open Source brings more value to business?
+# What Open Source can do for your business
 
 ## Abtract
 
