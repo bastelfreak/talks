@@ -16,8 +16,8 @@ In his free time, Tim enjoys good BBQ and ice hockey.
 
 ## Links
 
-* [git repo](https://github.com/bastelfreak/puppetize2021)
-* [online verison](https://bastelfreak.de/puppetize2021)
+* [git repo](https://github.com/bastelfreak/cfgmgmtcamp2023.git)
+* [online verison](https://bastelfreak.de/cfgmgmtcamp2023)
 * [pdf](Tim_Meusel_-_Why_Open_Source_brings_more_value_to_business.pdf)
-* [schedule link](https://events.puppet.com/event/puppetize-digital-21/why-does-open-source-bring-more-value-to-business-2/)
-* [Video recording](https://www.youtube.com/watch?v=4gNLQgXr93Q)
+* [schedule link](https://cfp.cfgmgmtcamp.org/2023/talk/EJQEWR/)
+* No Video recording, but I did the talk at another conference: https://www.youtube.com/watch?v=4gNLQgXr93Q
