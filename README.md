@@ -37,7 +37,7 @@
 * [Puppetize Digital 2021](puppetize2021.md)
 * [SCALE 20x](socallinux2022.md)
 * [SCALE 20x](socallinux2022_2.md)
-* [Cfgmgmtcamp Gent 2022 - Why Open Source brings more value to business?](cfgmgmtcamp2022.md)
+* [Cfgmgmtcamp Gent 2023 - Why Open Source brings more value to business?](cfgmgmtcamp2023.md)
 * [HashiTalks 2023](hashitalks2023.md)
 
 ## Thesis and project documentations
