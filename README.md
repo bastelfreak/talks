@@ -38,8 +38,8 @@
 * [StackConf 2020](stackconf2020.md)
 * [Puppet Camp - Scaling automation across teams](Puppet_Camp_Scaling_automation_across_teams.md)
 * [Puppetize Digital 2021](puppetize2021.md)
-* [SCALE 20x](socallinux2022.md)
-* [SCALE 20x](socallinux2022_2.md)
+* [SCALE 20x - Vox Pupuli - Behind every successful open source project is a vibrant community](socallinux2022.md)
+* [SCALE 20x - Deploying workshop instances in cloud using terraform, Puppet and Bolt](socallinux2022_2.md)
 * [Cfgmgmtcamp Gent 2023 - Why Open Source brings more value to business?](cfgmgmtcamp2023.md)
 * [HashiTalks 2023](hashitalks2023.md)
 
