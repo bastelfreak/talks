@@ -18,6 +18,7 @@
 * [cfgmgmtcamp Berlin - Online Slides](https://bastelfreak.de/cfgcamp/#1)
 * [cfgmgmtcamp Berlin - PDF](Vox_Pupuli_-_Empowering_the_Puppet_Community.pdf)
 * [cfgmgmtcamp Gent 2017 - Vox Pupuli Talk](cfgmgmtcampbastelfreak.md)
+* [DevOpsDays Portland 2017 - Vox Pupuli Talk](devopsdays2017pdx.md)
 * [cfgmgmtcamp Gent 2018 - Vox Pupuli Talk](cfgmgmtcamp2018.md)
 * [cfgmgmtcamp Gent 2018 - CI and CD with Archlinux and Puppet](cfgmgmtcamp2018.md)
 * [Cfgmgmtcamp Gent 2019 - Vox Pupuli Talk](cfgmgmtcamp2019.md)
