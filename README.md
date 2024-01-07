@@ -43,6 +43,10 @@
 * [SCALE 20x - Deploying workshop instances in cloud using terraform, Puppet and Bolt](socallinux2022_2.md)
 * [Cfgmgmtcamp Gent 2023 - What Open Source can do for your business](cfgmgmtcamp2023.md)
 * [HashiTalks 2023](hashitalks2023.md)
+* [Cfgmgmtcamp Gent 2024 - Puppet hacks you didn't know you were looking for](cfgmgmtcamp2024.md)
+* [Cfgmgmtcamp Gent 2024 - Vox Pupuli - Community Update](cfgmgmtcamp2024.md)
+* [CLT 2024 - Puppet hacks you didn't know you were looking for](clt2024.md)
+* [Wie man eine Open Source Community aufbaut und lebendig hält](clt2024.md)
 
 # Thesis and project documentations
 
