@@ -11,7 +11,7 @@ Vox Pupuli is a Puppet focused community. The goal is to unite lonely module and
 * Online Repo: [github.com/bastelfreak/cfgmgmtcamp2024](https://github.com/bastelfreak/cfgmgmtcamp2024?tab=readme-ov-file#vox-pupuli---community-update-ignate-talk)
 * Schedule: [cfp.cfgmgmtcamp.org/2024/talk/7PJR78/](https://cfp.cfgmgmtcamp.org/2024/talk/7PJR78/)
 * Online Slides: [bastelfreak.de/cfgmgmtcamp2024/ignite.html](https://bastelfreak.de/cfgmgmtcamp2024/ignite.html)
-* PDF:
+* [PDF](Vox_Pupuli_-_Community_Update.pdf)
 
 ## Puppet hacks you didn't know you were looking for
 
@@ -29,7 +29,7 @@ This talk is for you! We will go through all the hidden gems of cli commands and
 * Online Repo: [github.com/bastelfreak/cfgmgmtcamp2024](https://github.com/bastelfreak/cfgmgmtcamp2024?tab=readme-ov-file#puppet-hacks-you-didnt-know-you-were-looking-for)
 * Schedule: [https://cfp.cfgmgmtcamp.org/2024/talk/BRBVJK/](https://cfp.cfgmgmtcamp.org/2024/talk/BRBVJK/)
 * Online Slides: [bastelfreak.de/cfgmgmtcamp2024/hacks.html](https://bastelfreak.de/cfgmgmtcamp2024/hacks.html)
-* PDF:
+* [PDF](Puppet_hacks_you_didn_t_know_you_were_looking_for.pdf)
 
 ## Bio
 
