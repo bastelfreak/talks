@@ -12,6 +12,7 @@ Vox Pupuli is a Puppet focused community. The goal is to unite lonely module and
 * Schedule: [cfp.cfgmgmtcamp.org/2024/talk/7PJR78/](https://cfp.cfgmgmtcamp.org/2024/talk/7PJR78/)
 * Online Slides: [bastelfreak.de/cfgmgmtcamp2024/ignite.html](https://bastelfreak.de/cfgmgmtcamp2024/ignite.html)
 * [PDF](Vox_Pupuli_-_Community_Update.pdf)
+* Recording: https://www.youtube.com/watch?v=yxZ8jf8qI6Q
 
 ## Puppet hacks you didn't know you were looking for
 
