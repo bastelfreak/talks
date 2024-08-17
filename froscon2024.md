@@ -7,12 +7,12 @@
 
 * 45 minutes plus 10 minutes diѕcussion
 * Link zur Konferenz: [https://froscon.org/](https://froscon.org/)
-* Online Version: [bastelfreak.de/clt2024/#1](https://bastelfreak.de/clt2024/#1)
-* Git Repo: [github.com/bastelfreak/clt2024](https://github.com/bastelfreak/clt2024?tab=readme-ov-file#vox-pupuli---behind-every-successful-open-source-project-is-a-vibrant-community)
+* Online Version: [bastelfreak.de/froscon2024/#1](https://bastelfreak.de/froscon2024/#1)
+* Git Repo: [github.com/bastelfreak/froscon2024](https://github.com/bastelfreak/froscon2024?tab=readme-ov-file#wie-man-eine-open-source-community-aufbaut-und-lebendig-h%C3%A4lt)
 * Recording: [media.ccc.de/v/clt24-257-wie-man-eine-open-source-community-aufbaut-und-lebendig-halt](https://media.ccc.de/v/clt24-257-wie-man-eine-open-source-community-aufbaut-und-lebendig-halt)
 * PDF: [Vox Pupuli - Wie man eine Open Source Community aufbaut und lebendig hält.pdf](https://github.com/bastelfreak/talks/blob/master/Vox%20Pupuli%20-%20Wie%20man%20eine%20Open%20Source%20Community%20aufbaut%20und%20lebendig%20h%C3%A4lt.pdf)
 
-### Abstract 2
+### Abstract
 
 Was passiert wenn kritische Open Source Projekte nicht mehr gepflegt werden?
 
