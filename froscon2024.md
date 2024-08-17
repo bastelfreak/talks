@@ -9,7 +9,7 @@
 * Link zur Konferenz: [https://froscon.org/](https://froscon.org/)
 * Online Version: [bastelfreak.de/froscon2024/#1](https://bastelfreak.de/froscon2024/#1)
 * Git Repo: [github.com/bastelfreak/froscon2024](https://github.com/bastelfreak/froscon2024?tab=readme-ov-file#wie-man-eine-open-source-community-aufbaut-und-lebendig-h%C3%A4lt)
-* Recording: [media.ccc.de/v/clt24-257-wie-man-eine-open-source-community-aufbaut-und-lebendig-halt](https://media.ccc.de/v/clt24-257-wie-man-eine-open-source-community-aufbaut-und-lebendig-halt)
+* Recording: [https://media.ccc.de/v/froscon2024-3144-wie_man_eine_open_source_community_aufbaut_und_lebendig_halt](https://media.ccc.de/v/froscon2024-3144-wie_man_eine_open_source_community_aufbaut_und_lebendig_halt)
 * PDF: [Vox Pupuli - Wie man eine Open Source Community aufbaut und lebendig hält.pdf](https://github.com/bastelfreak/talks/blob/master/Vox%20Pupuli%20-%20Wie%20man%20eine%20Open%20Source%20Community%20aufbaut%20und%20lebendig%20h%C3%A4lt%20-%20froscon.pdf)
 
 ### Abstract
