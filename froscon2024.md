@@ -5,8 +5,8 @@
 ### Wie man eine Community auf über 210 Mitglieder und über 300 Projekte skaliert
 
 
-* 45 minutes plus 10 minutes diѕcussion
-* Link zur Konferenz: [https://froscon.org/](https://froscon.org/)
+* 45 minutes plus 15 minutes diѕcussion
+* Link zur Konferenz: [https://froscon.org/](https://programm.froscon.org/2024/events/3144.html)
 * Online Version: [bastelfreak.de/froscon2024/#1](https://bastelfreak.de/froscon2024/#1)
 * Git Repo: [github.com/bastelfreak/froscon2024](https://github.com/bastelfreak/froscon2024?tab=readme-ov-file#wie-man-eine-open-source-community-aufbaut-und-lebendig-h%C3%A4lt)
 * Recording: [https://media.ccc.de/v/froscon2024-3144-wie_man_eine_open_source_community_aufbaut_und_lebendig_halt](https://media.ccc.de/v/froscon2024-3144-wie_man_eine_open_source_community_aufbaut_und_lebendig_halt)
