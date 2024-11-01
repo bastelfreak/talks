@@ -49,6 +49,8 @@
 * [CLT 2024 - Wie man eine Open Source Community aufbaut und lebendig hält](clt2024.md)
 * [FrOSCon 2024 - Wie man eine Open Source Community aufbaut und lebendig hält](froscon2024.md)
 * [puppet.run - Vox Pupuli - Behind every successful open source project is a vibrant community](puppetrun.md)
+* [Cfgmgmtcamp Gent 2024 - Vox Pupuli - Community Update](cfgmgmtcamp2025.md)
+* [Cfgmgmtcamp Gent 2025 - Doing mass Puppet Enterprise upgrades in highly restricted environments](cfgmgmtcamp2025.md)
 
 # Thesis and project documentations
 
