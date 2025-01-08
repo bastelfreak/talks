@@ -51,6 +51,7 @@
 * [puppet.run - Vox Pupuli - Behind every successful open source project is a vibrant community](puppetrun.md)
 * [Cfgmgmtcamp Gent 2024 - Vox Pupuli - Community Update](cfgmgmtcamp2025.md)
 * [Cfgmgmtcamp Gent 2025 - Doing mass Puppet Enterprise upgrades in highly restricted environments](cfgmgmtcamp2025.md)
+* [Stackconf - Vox Pupuli - State of the Puppet ecosystem after the exodus](stackconf2025.md)
 
 # Thesis and project documentations
 
