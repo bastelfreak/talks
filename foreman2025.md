@@ -18,3 +18,7 @@ Perforce, many of those companies are unhappy and want to move away. In
 this talk I provide insights in what PE actually is, how people can
 migrate and how Foreman can benefit from it.
 ```
+
+## Title
+
+Migrating from Puppet Enterprise to OpenVox and Foreman
