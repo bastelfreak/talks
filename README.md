@@ -54,6 +54,7 @@
 * [Stackconf - Vox Pupuli - State of the Puppet ecosystem after the exodus](stackconf2025.md)
 * [Vox Pupuli - Behind every successful open source project is a vibrant community](opensourcesummit2025.md)
 * [Vox Pupuli - Hinter jedem erfolgreichen Open Source Project steht eine lebhafte Community](froscon2025.md)
+* [Foreman Birthday Party 2025](foreman2025.md)
 
 # Thesis and project documentations
 
