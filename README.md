@@ -56,6 +56,7 @@
 * [Puppet Hacks you didn't know you were looking for](puppethacks.md)
 * [Vox Pupuli - Hinter jedem erfolgreichen Open Source Project steht eine lebhafte Community](froscon2025.md)
 * [Foreman Birthday Party 2025](foreman2025.md)
+* [One year OpenVoxProject](cfgmgmtcamp2026.md)
 
 # Thesis and project documentations
 
