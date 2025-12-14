@@ -59,6 +59,7 @@
 * [Foreman Birthday Party 2025](foreman2025.md)
 * [One year OpenVoxProject](cfgmgmtcamp2026.md)
 * [Zustand des Puppet Ecosystems nach dem Perforce Exodus](clt2026.md)
+* [Die Puppet Community nach dem Perforce Exodus](slac2026.md)
 * [One year OpenVoxProject - State of the Puppet ecosystem after the Perforce exodus](stackconf2026.md)
 
 # Thesis and project documentations
