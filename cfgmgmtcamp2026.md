@@ -13,16 +13,11 @@ Also I want to provide an overview about upcoming topics and possible ways to en
 
 Vox Pupuli is a Puppet focused community. The goal is to unite lonely module and tooling authors to provide a home for orphaned modules and to ensure a continued development of the code base. In this ignite we will inform you about the state of Vox Pupuli. Last year we announced options to sponsor us, this year we want to update you on the funding we received!
 
-## Doing mass Puppet Enterprise upgrades in highly restricted environments
+## Bring OpenBolt into Foreman
 
 ### Abstract
 
-How do you upgrade 3000 individual PE environments?
-3000 environments that you don't manage and others own.
-3000 environments without SSH access.
-
-Come with me on a "funny" journey and learn how we made this possible and how the PE upgrade process differs from Open Source.
-Lets do a deep dive into PE 2019->2021->2023 Upgrades and our open source tooling that made this possible.
+OpenBolt is a CLI application from the OpenVoxProject. It provides different ways to run your beloved sysadmin scripts with proper guardrails and it makes it easy to glue them together in Plans. For years, people wanted to have a Web UI to run the various tasks and plans. We now added a Foreman plugin, which enables people to run everything via the Web UI or the Foreman API! In this talk I would like to showcase what OpenBolt is and the benefits it provides, and also do a live demo.
 
 ## Bio
 
