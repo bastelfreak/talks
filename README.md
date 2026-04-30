@@ -62,6 +62,7 @@
 * [Die Puppet Community nach dem Perforce Exodus](slac2026.md)
 * [One year OpenVoxProject - State of the Puppet ecosystem after the Perforce exodus](stackconf2026.md)
 * [Foreman Birthday Party 2026](foreman2026.md)
+* [IT Tage 2026](ittage2026.md)
 
 # Thesis and project documentations
 
