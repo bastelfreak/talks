@@ -1,5 +1,7 @@
 # OpenVox: Transition from Top-Down Management to Open, Community-Driven Development
 
+**the conference was cancelled**
+
 * Conference: https://devopsdays.org/events/2026-berlin/welcome/
 * length: 30min
 
