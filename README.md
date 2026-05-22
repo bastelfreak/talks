@@ -61,6 +61,7 @@
 * [Zustand des Puppet Ecosystems nach dem Perforce Exodus](clt2026.md)
 * [Die Puppet Community nach dem Perforce Exodus](slac2026.md)
 * [One year OpenVoxProject - State of the Puppet ecosystem after the Perforce exodus](stackconf2026.md)
+* [Foreman + OpenBolt - Eine Liebesgeschichte in zwei Akten](froscon2026.md)
 * [Foreman Birthday Party 2026](foreman2026.md)
 * [DevOps Days Berlin 2026](devopsdaysberlin2026.md)
 * [IT Tage 2026](ittage2026.md)
