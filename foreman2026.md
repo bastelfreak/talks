@@ -1,10 +1,8 @@
 # Foreman Birthday Party 2026
 
-
 https://community.theforeman.org/t/foreman-birthday-voxconf-2026/46064
 
-
-length: 50min
+length: 50min -> reduced to 25min -> now 40min again
 
 ## Foreman + OpenBolt - a <3 story in three acts
 
@@ -26,9 +24,6 @@ We will go into the details on:
 
 ## slides
 
-subtitle: or four?
-
-* start with the saurier -> not about ruby is awesome but foreman -> krita skills -> like ms paint
-* reference https://bastelfreak.de/foreman2025/index.html#38
-* and now kiss meme
-* heard about mcollective? hiera? same inventor!
+* Recordings: https://media.ccc.de/v/voxconf2026-110734-foreman-openbolt-a-3
+* Online Version: https://bastelfreak.de/foreman2026/#1
+* PDF: https://github.com/bastelfreak/foreman2026/blob/main/Foreman%20Birthday%20Party.pdf
