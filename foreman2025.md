@@ -26,3 +26,4 @@ Migrating from Puppet Enterprise to OpenVox and Foreman
 * git repo: http://github.com/bastelfreak/foreman2025
 * online slides: https://bastelfreak.de/foreman2025/index.html
 * pdf: https://github.com/bastelfreak/foreman2025/blob/main/Migrating%20from%20Puppet%20Enterprise%20to%20OpenVox%20and%20Foreman.pdf
+* Recording: [youtu.be/NRtstDVtpyk?t=21810](https://youtu.be/NRtstDVtpyk?t=21810)
