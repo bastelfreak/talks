@@ -43,6 +43,26 @@ Now with +480 repos and +260 people.
 
 What can a decade of open source community work teach us about keeping a project alive when the ground underneath it changes?
 
+## Foreman + OpenBolt - Bringing plan support into Foreman
+
+* 50 minutes
+* Foreman room
+
+### Abstract
+
+Foreman + OpenBolt - the final talk? We presented part 2 of this 4 part series last year in Gent: [Bringing OpenBolt into Foreman](https://cfp.cfgmgmtcamp.org/ghent2026/talk/DVS97G/)
+
+And part three at the Foreman Birthday party 2026: [Foreman + OpenBolt - a <3 story in three acts](https://media.ccc.de/v/voxconf2026-110734-foreman-openbolt-a-3)
+
+In this forth part we will speak about OpenBolt plans!
+* What are plans?
+* How can you execute them via the Foreman UI or API?
+* How does the architecture look with the SSH and Choria transports?
+
+### Notes
+
+If there's a chance that this talk doesn't overlap with the Vox/Puppet room, that would be awesome, but it's not required.
+
 ## Bio
 
 Tim „bastelfreak“ Meusel works a Principal IT Automation Consultant from Koblenz, Germany.
